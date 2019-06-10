@@ -1,4 +1,4 @@
-class Model
+class Dog
 
   @@all = []
 
